@@ -1,0 +1,7 @@
+```text
+streamlit
+sympy
+matplotlib
+numpy
+
+```
